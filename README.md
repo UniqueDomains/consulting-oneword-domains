@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CONSULTING one-word domains still available to buy.
 
-This dataset contains 4,095 .CONSULTING one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,097 .CONSULTING one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CONSULTING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=consulting-oneword-domains&utm_content=description.top) (4,094) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.CONSULTING one word d
 | aaron.consulting      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.consulting  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.consulting      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.consulting  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.consulting  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.consulting    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.consulting     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.consulting   | available | 54       | 1%     | 8      |           |         |         |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.CONSULTING one word d
 | abbatial.consulting   | available | 50       | 1%     | 8      |           |         |         |
 | abc.consulting        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.consulting  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.consulting  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.consulting  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.consulting | available | 56       | 1%     | 10     |           |         |         |
 | abducens.consulting   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.consulting   | available | 68       | 1%     | 8      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.CONSULTING one word d
 | aberdonian.consulting | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.consulting   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.consulting    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.consulting  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.consulting  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.consulting    | available | 106      | 5%     | 7      |           |         |         |
 | abient.consulting     | available | 54       | 1%     | 6      |           |         |         |
 | abit.consulting       | available | 66       | 16%    | 5      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CONSULTING one word d
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
