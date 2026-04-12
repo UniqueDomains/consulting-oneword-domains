@@ -83,7 +83,7 @@ print(df.head())
 | pay.consulting       | resell    | —         | —             | 84             | 56     | 3      | Virtualia LLC              |
 | all.consulting       | premium   | $500      | $500          | 88             | 48     | 3      | name.com                   |
 | cozy.consulting      | available | $26.99    | $67.99        | 110            | 37     | 4      | name.com                   |
-| zero.consulting      | resell    | —         | —             | 112            | 54     | 4      | Dynadot Inc                |
+| link.consulting      | resell    | —         | —             | 68             | 54     | 4      | Sav.com, LLC               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
