@@ -70,16 +70,16 @@ print(df.head())
 | wizard.consulting    | available | $26.99    | $67.99        | 118            | 43     | 6      | name.com                   |
 | flow.consulting      | resell    | —         | —             | 96             | 67     | 4      | Spaceship, Inc.            |
 | athletics.consulting | premium   | $260      | $260          | 69             | 52     | 9      | namecheap                  |
-| order.consulting     | available | $26.99    | $67.99        | 78             | 41     | 5      | name.com                   |
+| order.consulting     | available | $26.99    | $67.99        | 78             | 40     | 5      | name.com                   |
 | now.consulting       | resell    | —         | —             | 68             | 66     | 3      | Squarespace Domains II LLC |
 | abc.consulting       | premium   | $520      | $520          | 102            | 50     | 3      | namecheap                  |
-| review.consulting    | available | $67.98    | —             | 94             | 39     | 6      | namecheap                  |
+| gather.consulting    | available | $26.99    | $67.99        | 96             | 39     | 6      | name.com                   |
 | power.consulting     | resell    | —         | —             | 98             | 62     | 5      | Spaceship, Inc.            |
 | security.consulting  | premium   | $1,300    | $1,300        | 70             | 49     | 8      | namecheap                  |
-| shared.consulting    | available | $26.99    | $67.99        | 70             | 39     | 6      | name.com                   |
+| review.consulting    | available | $67.98    | —             | 94             | 39     | 6      | namecheap                  |
 | tesla.consulting     | resell    | —         | —             | 86             | 61     | 5      | HOSTINGER operations, UAB  |
 | travel.consulting    | premium   | $1,300    | $1,300        | 115            | 48     | 6      | namecheap                  |
-| gather.consulting    | available | $26.99    | $67.99        | 96             | 38     | 6      | name.com                   |
+| shared.consulting    | available | $26.99    | $67.99        | 70             | 39     | 6      | name.com                   |
 | pay.consulting       | resell    | —         | —             | 84             | 56     | 3      | Virtualia LLC              |
 | all.consulting       | premium   | $500      | $500          | 88             | 48     | 3      | name.com                   |
 | cozy.consulting      | available | $26.99    | $67.99        | 110            | 37     | 4      | name.com                   |
