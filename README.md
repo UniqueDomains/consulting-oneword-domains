@@ -1,10 +1,10 @@
-# Available .CONSULTING One-Word Domains (11,219)
+# Available .CONSULTING One-Word Domains (11,221)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C219%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C221%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .consulting one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,219 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,221 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,219 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,221 domains · **Median ask:** $40.88 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/consulting`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,18 @@ print(df.head())
 
 | domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| Acup.consulting        | available | $67.98    | —             | 80             | 5      | 5      | namecheap       |
+| girls.consulting       | available | $26.99    | —             | 83             | 23     | 5      | name.com        |
+| finals.consulting      | available | $26.99    | —             | 80             | 7      | 6      | name.com        |
+| barup.consulting       | available | $26.99    | —             | 82             | 2      | 6      | name.com        |
+| dogsit.consulting      | available | $26.99    | —             | 96             | 2      | 6      | name.com        |
+| playon.consulting      | available | $26.99    | —             | 80             | 14     | 7      | name.com        |
+| hangon.consulting      | available | $26.99    | —             | 82             | 6      | 7      | name.com        |
+| pierogi.consulting     | available | $26.99    | —             | 82             | 7      | 7      | name.com        |
+| stirup.consulting      | available | $26.99    | —             | 82             | 3      | 7      | name.com        |
+| watches.consulting     | available | $26.99    | —             | 84             | 19     | 7      | name.com        |
+| update.consulting      | available | $26.99    | —             | 88             | 29     | 7      | name.com        |
+| presents.consulting    | available | $26.99    | —             | 80             | 9      | 8      | name.com        |
 | stories.consulting     | available | $26.99    | —             | 58             | 36     | 7      | name.com        |
 | spectra.consulting     | resell    | —         | —             | 62             | 34     | 7      | Spaceship, Inc. |
 | Books.consulting       | premium   | $140      | $280          | 52             | 49     | 5      | namecheap       |
@@ -72,18 +84,6 @@ print(df.head())
 | maps.consulting        | premium   | $280      | $560          | 56             | 31     | 4      | namecheap       |
 | spaces.consulting      | available | $26.99    | —             | 54             | 30     | 6      | name.com        |
 | videos.consulting      | premium   | $69.30    | $138.60       | 52             | 30     | 6      | namecheap       |
-| update.consulting      | available | $26.99    | —             | 88             | 29     | 7      | name.com        |
-| SanDiego.consulting    | premium   | $700      | $1,400        | 74             | 29     | 9      | namecheap       |
-| heroes.consulting      | available | $26.99    | —             | 68             | 29     | 6      | name.com        |
-| KFC.consulting         | premium   | $46.20    | $92.40        | 74             | 27     | 3      | namecheap       |
-| quotes.consulting      | available | $26.99    | —             | 58             | 29     | 6      | name.com        |
-| doctors.consulting     | premium   | $140      | $280          | 56             | 26     | 7      | namecheap       |
-| girls.consulting       | available | $26.99    | —             | 83             | 23     | 5      | name.com        |
-| loans.consulting       | premium   | $140      | $280          | 58             | 24     | 5      | namecheap       |
-| Places.consulting      | available | $67.98    | —             | 74             | 22     | 6      | namecheap       |
-| pls.consulting         | premium   | $69.30    | $138.60       | 60             | 23     | 3      | namecheap       |
-| signs.consulting       | available | $26.99    | —             | 64             | 22     | 5      | name.com        |
-| blogs.consulting       | premium   | $140      | $280          | 52             | 21     | 5      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,219 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,221 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is focused entirely on one-word names in the .consulting extension. That gives the selection a consistent commercial frame: the keyword carries an explicit advisory or professional-services signal, while the word before it does most of the branding work. Sample names such as Acup.consulting, Trex.consulting, finals.consulting, jewels.consulting, and forces.consulting show the range from niche-specific to broader brandable terms. When comparing these domains, weigh how naturally the word fits consulting as a service, how easy it is to say and remember, and whether the ask leaves room for your budget or expected resale outcome.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that fit advisory or expert positioning
+- Check if the word feels natural before .consulting
+- Use price discipline: median ask is 40.882
+- Screen for trademark and ambiguity before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONSULTING One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONSULTING One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
