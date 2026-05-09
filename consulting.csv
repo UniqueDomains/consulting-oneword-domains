@@ -897,6 +897,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 52e534db-20f6-4ff4-94b6-c22b540c7f62,officeroutine.consulting,available,26.99,,43,0,14,name.com,,
 52ef9647-c5cb-4f6a-aae4-7a26c38ef493,genes.consulting,available,26.99,,54,10,5,name.com,,
 53036c68-4806-41a4-889b-0522bfd823dc,ties.consulting,available,26.99,,59,9,4,name.com,,
+5315f9c0-8373-467b-a35b-28eb85ae81df,sup.consulting,premium,,,74,33,3,,,
 533c4356-3de2-4cc5-97fb-5197c1bb5553,honeymooning.consulting,available,26.99,,82,2,12,name.com,,
 534c697e-7fd0-4d2e-89c9-895516cbe6f7,flor.consulting,available,26.99,,74,14,4,name.com,,
 536442c2-6cf4-4e29-9ed0-1b287ad05d81,cometrue.consulting,available,26.99,,82,5,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5bfc8f8d-2117-4379-aae0-63fae1de364b,cocks.consulting,available,26.99,,56,10,5,name.com,,
 5c19c937-0a14-4162-a038-8d830217bd35,oldriver.consulting,available,26.99,,52,2,9,name.com,,
 5c477d87-3d4e-4dfa-a8cd-beca12bb8ad1,commonland.consulting,available,26.99,,74,2,11,name.com,,
-5c80b441-629e-41f9-8505-6c3a2bb1fff6,settingup.consulting,available,26.99,,54,1,10,name.com,,
