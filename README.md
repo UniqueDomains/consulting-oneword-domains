@@ -74,7 +74,7 @@ print(df.head())
 | pierogi.consulting     | available | $26.99    | —             | 82             | 7      | 7      | name.com        |
 | stirup.consulting      | available | $26.99    | —             | 82             | 3      | 7      | name.com        |
 | watches.consulting     | available | $26.99    | —             | 84             | 19     | 7      | name.com        |
-| update.consulting      | available | $26.99    | —             | 88             | 29     | 7      | name.com        |
+| update.consulting      | available | $26.99    | —             | 88             | 28     | 7      | name.com        |
 | presents.consulting    | available | $26.99    | —             | 80             | 9      | 8      | name.com        |
 | stories.consulting     | available | $26.99    | —             | 58             | 36     | 7      | name.com        |
 | spectra.consulting     | resell    | —         | —             | 62             | 34     | 7      | Spaceship, Inc. |
