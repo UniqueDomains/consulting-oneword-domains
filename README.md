@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .consulting one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,230 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,230 domains · **Median ask:** $40.88 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,230 domains · **Median ask:** $39.29 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/consulting`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/consulting`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CONSULTING one-word d
 
 ### Files
 
-- `consulting.csv` — public CSV extract (1,000 rows)
-- `consulting.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `consulting.csv`, public CSV extract (1,000 rows)
+- `consulting.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.consulting     | available | $67.98    | —             | 80             | 5      | 5      | namecheap       |
-| girls.consulting    | available | $26.99    | —             | 83             | 23     | 5      | name.com        |
-| finals.consulting   | available | $26.99    | —             | 80             | 7      | 6      | name.com        |
-| barup.consulting    | available | $26.99    | —             | 82             | 2      | 6      | name.com        |
-| dogsit.consulting   | available | $26.99    | —             | 96             | 2      | 6      | name.com        |
-| playon.consulting   | available | $26.99    | —             | 80             | 14     | 7      | name.com        |
-| hangon.consulting   | available | $26.99    | —             | 82             | 6      | 7      | name.com        |
-| pierogi.consulting  | available | $26.99    | —             | 82             | 7      | 7      | name.com        |
-| stirup.consulting   | available | $26.99    | —             | 82             | 3      | 7      | name.com        |
-| watches.consulting  | available | $26.99    | —             | 84             | 19     | 7      | name.com        |
-| update.consulting   | available | $26.99    | —             | 88             | 28     | 7      | name.com        |
-| presents.consulting | available | $26.99    | —             | 80             | 9      | 8      | name.com        |
-| stories.consulting  | available | $26.99    | —             | 58             | 36     | 7      | name.com        |
-| spectra.consulting  | resell    | —         | —             | 62             | 34     | 7      | Spaceship, Inc. |
-| Books.consulting    | premium   | $140      | $280          | 52             | 49     | 5      | namecheap       |
-| spaces.consulting   | available | $26.99    | —             | 54             | 30     | 6      | name.com        |
-| dollars.consulting  | resell    | —         | —             | 64             | 12     | 7      | eNom, LLC       |
-| maps.consulting     | premium   | $280      | $560          | 56             | 31     | 4      | namecheap       |
-| heroes.consulting   | available | $26.99    | —             | 68             | 29     | 6      | name.com        |
-| videos.consulting   | premium   | $69.30    | $138.60       | 52             | 30     | 6      | namecheap       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| jay.consulting  | available | $26.99    | —             | medium         | low    | 3      | name.com                   |
+| now.consulting  | resell    | —         | —             | medium         | medium | 3      | Squarespace Domains II LLC |
+| abc.consulting  | premium   | $520      | $520          | high           | medium | 3      | namecheap                  |
+| rep.consulting  | available | $26.99    | —             | medium         | low    | 3      | name.com                   |
+| bird.consulting | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                |
+| aim.consulting  | premium   | $280      | $560          | high           | low    | 3      | namecheap                  |
+| aged.consulting | available | $26.99    | $67.99        | high           | low    | 4      | name.com                   |
+| born.consulting | resell    | —         | —             | high           | low    | 4      | IONOS SE                   |
+| ale.consulting  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                  |
+| babe.consulting | available | $26.99    | —             | high           | low    | 4      | name.com                   |
+| fair.consulting | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.            |
+| did.consulting  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
+| been.consulting | available | $26.99    | —             | medium         | low    | 4      | name.com                   |
+| palm.consulting | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
+| dip.consulting  | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
+| blow.consulting | available | $26.99    | —             | medium         | low    | 4      | name.com                   |
+| tree.consulting | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD        |
+| ego.consulting  | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                  |
+| busy.consulting | available | $26.99    | —             | high           | low    | 4      | name.com                   |
+| wall.consulting | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is focused entirely on one-word names in the .consulting extension. That gives the selection a consistent commercial frame: the keyword carries an explicit advisory or professional-services signal, while the word before it does most of the branding work. Sample names such as Acup.consulting, Trex.consulting, finals.consulting, jewels.consulting, and forces.consulting show the range from niche-specific to broader brandable terms. When comparing these domains, weigh how naturally the word fits consulting as a service, how easy it is to say and remember, and whether the ask leaves room for your budget or expected resale outcome.
+This list gathers one-word .consulting domain names such as criteria.consulting, presents.consulting, and update.consulting — short, dictionary-style names built for advisory, coaching, and services brands. With 11,230 names in the set and a median asking price near $39, most listings sit at an accessible price point, though renewal costs and trademark exposure should be checked before buying. Founders can shortlist ownable, easy-to-spell names quickly, while investors can scan for spread between asking price and category demand across the .consulting namespace.
 
-- Prioritize words that fit advisory or expert positioning
-- Check if the word feels natural before .consulting
-- Use price discipline: median ask is 40.882
-- Screen for trademark and ambiguity before buying
+- 11,230 one-word .consulting domains, updated daily
+- Median asking price near $39 across the set
+- Short, dictionary-style names for advisory & services brands
+- Check renewal cost and trademark risk before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONSULTING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONSULTING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
