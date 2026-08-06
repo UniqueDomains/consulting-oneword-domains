@@ -1,10 +1,10 @@
-# Available .CONSULTING One-Word Domains (11,230)
+# Available .CONSULTING One-Word Domains (11,241)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C230%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C241%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .consulting one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,230 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,241 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,230 domains · **Median ask:** $39.29 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,241 domains · **Median ask:** $35.54 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/consulting`
 **Best for:** founders, investors, studios
 
@@ -69,19 +69,19 @@ print(df.head())
 | abc.consulting  | premium   | $520      | $520          | high           | medium | 3      | namecheap                  |
 | rep.consulting  | available | $26.99    | —             | medium         | low    | 3      | name.com                   |
 | bird.consulting | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                |
-| aim.consulting  | premium   | $280      | $560          | high           | low    | 3      | namecheap                  |
+| abo.consulting  | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                  |
 | aged.consulting | available | $26.99    | $67.99        | high           | low    | 4      | name.com                   |
 | born.consulting | resell    | —         | —             | high           | low    | 4      | IONOS SE                   |
-| ale.consulting  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                  |
+| aim.consulting  | premium   | $280      | $560          | high           | low    | 3      | namecheap                  |
 | babe.consulting | available | $26.99    | —             | high           | low    | 4      | name.com                   |
 | fair.consulting | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.            |
-| did.consulting  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
+| ale.consulting  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                  |
 | been.consulting | available | $26.99    | —             | medium         | low    | 4      | name.com                   |
 | palm.consulting | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
-| dip.consulting  | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
+| did.consulting  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
 | blow.consulting | available | $26.99    | —             | medium         | low    | 4      | name.com                   |
 | tree.consulting | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD        |
-| ego.consulting  | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                  |
+| dip.consulting  | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
 | busy.consulting | available | $26.99    | —             | high           | low    | 4      | name.com                   |
 | wall.consulting | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,230 live domains                        |
+| 1,000-row public sample | 11,241 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONSULTING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONSULTING One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
