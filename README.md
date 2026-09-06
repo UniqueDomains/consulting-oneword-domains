@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .consulting one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,885 domains · **Median ask:** $23.88 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/consulting`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| jay.consulting  | available | $26.99    | —             | medium         | low    | 3      | name.com                   |
-| now.consulting  | resell    | —         | —             | medium         | medium | 3      | Squarespace Domains II LLC |
-| abc.consulting  | premium   | $520      | $520          | high           | medium | 3      | namecheap                  |
-| rep.consulting  | available | $26.99    | —             | medium         | low    | 3      | name.com                   |
-| bird.consulting | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                |
-| abo.consulting  | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                  |
-| aged.consulting | available | $26.99    | $67.99        | high           | low    | 4      | name.com                   |
-| born.consulting | resell    | —         | —             | high           | low    | 4      | IONOS SE                   |
-| aim.consulting  | premium   | $280      | $560          | high           | low    | 3      | namecheap                  |
-| arty.consulting | available | $8.48     | $67.98        | low            | low    | 4      | namecheap                  |
-| fair.consulting | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.            |
-| ale.consulting  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                  |
-| auld.consulting | available | $8.48     | $67.98        | low            | low    | 4      | namecheap                  |
-| palm.consulting | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
-| did.consulting  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
-| awny.consulting | available | $8.48     | $67.98        | low            | low    | 4      | namecheap                  |
-| tree.consulting | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD        |
-| dip.consulting  | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
-| babe.consulting | available | $26.99    | —             | high           | low    | 4      | name.com                   |
-| wall.consulting | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| christmas.consulting | available | $26.99    | —             | high           | low    | 9      | name.com                   |
+| special.consulting   | premium   | $46.20    | $92.40        | high           | low    | 7      | namecheap                  |
+| jay.consulting       | available | $26.99    | —             | medium         | low    | 3      | name.com                   |
+| now.consulting       | resell    | —         | —             | medium         | medium | 3      | Squarespace Domains II LLC |
+| abc.consulting       | premium   | $520      | $520          | high           | medium | 3      | namecheap                  |
+| rep.consulting       | available | $26.99    | —             | medium         | low    | 3      | name.com                   |
+| bird.consulting      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                |
+| abo.consulting       | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                  |
+| aged.consulting      | available | $26.99    | $67.99        | high           | low    | 4      | name.com                   |
+| born.consulting      | resell    | —         | —             | high           | low    | 4      | IONOS SE                   |
+| aim.consulting       | premium   | $280      | $560          | high           | low    | 3      | namecheap                  |
+| arty.consulting      | available | $8.48     | $67.98        | low            | low    | 4      | namecheap                  |
+| fair.consulting      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.            |
+| ale.consulting       | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                  |
+| auld.consulting      | available | $8.48     | $67.98        | low            | low    | 4      | namecheap                  |
+| palm.consulting      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
+| did.consulting       | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
+| awny.consulting      | available | $8.48     | $67.98        | low            | low    | 4      | namecheap                  |
+| tree.consulting      | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD        |
+| dip.consulting       | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONSULTING One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONSULTING One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
