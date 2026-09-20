@@ -26,12 +26,12 @@ beb0c49a-1839-464b-80a9-ed19c604185b,arguement.consulting,available,26.99,,mediu
 c6f44bf0-4b66-4bca-811f-3de7b4e43210,analytical.consulting,premium,130,260,medium,low,10,namecheap,,,
 bcfe6fd7-95ba-4562-a139-86cff8101eb0,bemother.consulting,available,26.99,,low,low,9,name.com,,,
 7c073ab2-184f-48a7-97b2-10ebeb056191,warfare.consulting,available,26.99,,high,low,7,name.com,,,
-12fb0d43-0838-4913-905a-820c0d53b96c,Iwanttoknow.consulting,available,26.99,,medium,low,14,name.com,,,
+12fb0d43-0838-4913-905a-820c0d53b96c,iwanttoknow.consulting,available,26.99,,medium,low,14,name.com,,,
 6053c88b-fb92-4490-913e-321504554224,stereotype.consulting,available,26.99,,high,low,10,name.com,,,
 1256c217-bc21-4d4f-a97d-b24d9d09d828,agonized.consulting,available,8.48,67.98,low,low,8,namecheap,,,
-bf663f5c-e9b0-4eb3-ad53-a0bc8c025847,enemy.consulting,available,8.48,67.98,low,low,5,namecheap,,,15/09/2026 01:14
+bf663f5c-e9b0-4eb3-ad53-a0bc8c025847,enemy.consulting,available,27.99,54.99,low,low,5,namesilo,,,19/09/2026 10:02
 5fcf1afa-8789-4382-a6d0-4fbba6df9eb9,relatively.consulting,available,26.99,,medium,low,10,name.com,,,
-66e1aaa1-c990-48fa-83aa-6157625c755b,WestHam.consulting,available,26.99,,low,low,8,name.com,,,
+66e1aaa1-c990-48fa-83aa-6157625c755b,westham.consulting,available,26.99,,low,low,8,name.com,,,
 b05b0181-24b2-4aa0-b8d0-9f90378c253a,against.consulting,available,26.99,,medium,low,7,name.com,,,
 d57dafb4-76ff-45df-9235-a0e4b5f1d720,wastebasket.consulting,available,26.99,,high,low,11,name.com,,,
 9bd31ab7-7d9c-4fe2-8ce8-a44277e16d6b,aurorean.consulting,available,8.48,67.98,low,low,8,namecheap,,,07/08/2026 18:12
@@ -135,8 +135,8 @@ c79a50b7-f467-4c4b-9f28-4a0a98a6a07d,aged.consulting,available,26.99,67.99,high,
 26a7d60e-3e12-47a2-a0a8-89d62f930dd6,clicking.consulting,available,26.99,,medium,low,8,name.com,,,
 ddfec08b-64f2-442f-bca2-cb0596fa06c4,desired.consulting,available,26.99,67.99,high,low,7,name.com,,,
 5bfec767-dbce-4962-9473-6a8a4b9c5237,howtheturntables.consulting,available,26.99,,medium,low,18,name.com,,,
-ea710c3e-3f52-4fde-9a42-35687701c4a8,NewGlasgow.consulting,available,26.99,,low,low,11,name.com,,,
-68cf1dd4-c5c9-42d0-8682-527cbae04a39,StVincent.consulting,available,26.99,,medium,low,11,name.com,,,
+ea710c3e-3f52-4fde-9a42-35687701c4a8,newglasgow.consulting,available,26.99,,low,low,11,name.com,,,
+68cf1dd4-c5c9-42d0-8682-527cbae04a39,stvincent.consulting,available,26.99,,medium,low,11,name.com,,,
 952a71dd-f53c-4cef-b277-a313aa755690,discjockey.consulting,available,26.99,,high,low,11,name.com,,,
 e57b76ef-65cd-4a63-bd8f-26ea05329730,snake.consulting,available,26.99,,medium,low,5,name.com,,,
 c796b75b-f917-46d3-8ab0-f209577c964b,cappuccino.consulting,available,26.99,,high,low,10,name.com,,,
@@ -160,7 +160,7 @@ cbb0b217-ce0f-4705-8eec-fb13567900da,avoidable.consulting,available,8.48,67.98,l
 e3898522-5a78-47f1-ac17-58b213cede5e,monstrous.consulting,available,8.48,67.98,low,low,9,namecheap,,,07/08/2026 14:47
 79f3e4e7-ab7d-47a6-8109-ad022971c1d9,exactly.consulting,available,26.99,,high,low,7,name.com,,,
 99587565-7e6e-4a61-9231-f7ef5f78cc2b,youre.consulting,available,26.99,,medium,low,5,name.com,,,
-64f4a89d-e16d-416f-b161-7b56eeb05a20,Godgiven.consulting,available,26.99,,medium,low,9,name.com,,,
+64f4a89d-e16d-416f-b161-7b56eeb05a20,godgiven.consulting,available,26.99,,medium,low,9,name.com,,,
 7583ec34-bf73-44cd-8414-1de32f01d8d3,rockbottom.consulting,available,26.99,,high,low,11,name.com,,,
 15b6812f-81e8-48ed-b1cc-4ed635220e74,alltheway.consulting,available,26.99,,medium,low,11,name.com,,,
 f04da1d9-66d2-4e53-8f56-269adb0a1500,behaviouralscience.consulting,available,26.99,,high,low,19,name.com,,,
@@ -187,10 +187,8 @@ f6868f71-add8-48bf-a4b7-a8fd05593809,consuming.consulting,available,26.99,67.99,
 a2203de6-74ae-426e-a7a3-8aecf0e8a5ca,givesomeoneabreak.consulting,available,26.99,,high,low,20,name.com,,,
 eea6fca8-d28d-4a32-bc54-3f04d795437a,aim.consulting,premium,280,560,high,low,3,namecheap,,,
 26da65ca-4016-478d-9a55-8fa13d3169d7,bristled.consulting,available,8.48,67.98,low,low,8,namecheap,,,08/08/2026 17:13
-db789cd9-9761-43e0-82a7-4d300e8debb2,entrepreneur.consulting,available,,,high,medium,12,,,,
 aaac13f5-3197-4369-966e-3801c944fe56,grotesque.consulting,available,8.48,67.98,low,low,9,namecheap,,,
 c48d8e1f-dc5c-429f-b919-f7414de6a297,broached.consulting,available,8.48,67.98,low,low,8,namecheap,,,
-57930424-f549-4aeb-8f26-85a8dfb2001c,harvard.consulting,available,,,high,low,7,,,,
 b9457861-7a5f-488d-8045-dd7d426a3abb,balmy.consulting,available,26.99,,high,low,5,name.com,,,
 bcb1c1f2-5509-4cce-be7b-69c9bc563969,vii.consulting,premium,42.9,85.8,low,low,3,namecheap,,,
 ba722c15-525c-45b8-8924-04b5ba84dcc5,sixtieth.consulting,available,8.48,67.98,low,low,8,namecheap,,,
@@ -221,10 +219,9 @@ d47d2872-f9b6-402a-9793-e2d2b8849a54,getreligion.consulting,available,26.99,,hig
 01d28c88-7652-4b82-9711-9e37dcd9ca13,york.consulting,premium,69.3,138.6,medium,low,4,namecheap,,,
 b675d43b-1dbd-4d04-aeea-71396d229426,allout.consulting,available,26.99,67.99,high,low,7,name.com,,,
 88ff908e-5e51-4b7a-a13c-6927d0c69e8a,abstracted.consulting,available,8.48,67.98,low,low,10,namecheap,,,
-c62aab03-e3e9-4698-8e76-ff8f4a769b85,StCharles.consulting,available,26.99,,medium,low,11,name.com,,,
+c62aab03-e3e9-4698-8e76-ff8f4a769b85,stcharles.consulting,available,26.99,,medium,low,11,name.com,,,
 2810b500-020e-4d3a-a91f-5a25aac815d2,toxic.consulting,available,26.99,,medium,low,5,name.com,,,
 3e8fac6e-3d37-431c-888e-f34a1be647a5,minutes.consulting,available,26.99,,high,low,7,name.com,,,
-f24d180c-84dd-4311-a4c7-475a3fcfd3f3,surface.consulting,available,,,medium,low,7,,,,
 edb93eb4-2771-4d53-9b5f-1bd644d1c8e2,ancestor.consulting,available,8.48,67.98,medium,low,8,namecheap,,,
 4a6c6e10-9720-4a2d-8793-6d21a3cf535f,shrewd.consulting,available,26.99,,medium,low,6,name.com,,,
 aa26f804-78ba-4386-b9b3-748c81177209,admiration.consulting,available,26.99,,high,low,10,name.com,,,
@@ -244,7 +241,7 @@ ec9b5f8e-82af-4980-9528-fdbcbac6dba2,sniff.consulting,available,26.99,,high,low,
 db0fc1e1-9047-4e65-a2f1-7e0ca2259cab,screwabout.consulting,available,26.99,,low,low,11,name.com,,,
 36ed736a-1b26-4822-9427-5c95d7b32bc9,whatiswhat.consulting,available,26.99,,low,low,12,name.com,,,
 5b6350ea-88e7-4146-9973-91ca2a66df83,whopping.consulting,available,8.48,67.98,low,low,8,namecheap,,,08/08/2026 13:14
-9aedfbaa-e372-48bd-8b82-e44f365d10ee,Siamesecat.consulting,available,26.99,,high,low,11,name.com,,,
+9aedfbaa-e372-48bd-8b82-e44f365d10ee,siamesecat.consulting,available,26.99,,high,low,11,name.com,,,
 0a22a801-3319-4500-b8e9-f7f02450ec0e,consistently.consulting,available,26.99,,medium,low,12,name.com,,,
 6b90afe9-ae62-4af2-bc51-2a7b9a9d1f4d,appetitive.consulting,available,8.48,67.98,low,low,10,namecheap,,,06/08/2026 06:56
 77e3e637-1108-45ec-963a-9d8ee680bf7b,policymaker.consulting,available,26.99,,high,low,12,name.com,,,
@@ -268,18 +265,18 @@ efd43732-292e-4ebc-960e-3cbff283dcf4,publicised.consulting,available,26.99,,medi
 a8d84dea-64a0-48b4-b0ea-6854f799bf0f,woman.consulting,available,26.99,,high,low,5,name.com,,,
 5402ea9e-fa08-4b7d-a5a9-afce4f39870f,investments.consulting,premium,140,280,medium,low,11,namecheap,,,
 6f3813f1-5923-401f-aa9c-d56cd87f587d,camper.consulting,available,,,medium,low,6,,,,
-f7d01fb8-c2d4-44eb-a816-a9e4242ce90f,Iseeyou.consulting,available,26.99,,medium,low,9,name.com,,,
+f7d01fb8-c2d4-44eb-a816-a9e4242ce90f,iseeyou.consulting,available,26.99,,medium,low,9,name.com,,,
 2799befd-8b71-41e4-928b-9c38622c0055,aecial.consulting,available,8.48,67.98,low,low,6,namecheap,,,
 b01df66f-f09b-435c-a6dc-4fb8a5308b66,atthat.consulting,available,26.99,,high,low,7,name.com,,,
 57752036-8ca6-45f1-9062-1481e808629c,accustomed.consulting,available,26.99,67.99,high,low,10,name.com,,,
 faa848a3-8ef7-4a56-b71e-8a5c8449f3e9,durable.consulting,available,26.99,67.99,high,low,7,name.com,,,
 3bf6d6ca-cf5b-4f63-a9ac-c322da7210bf,lateron.consulting,available,8.48,67.98,low,low,8,namecheap,,,
 24fbbda4-6c51-4041-9ab7-92b5eeda0f77,appreciative.consulting,available,26.99,,high,low,12,name.com,,,
-7beb0064-1068-4368-8b42-af9913eec87d,restrict.consulting,available,8.48,67.98,low,low,8,namecheap,,,14/09/2026 04:21
+7beb0064-1068-4368-8b42-af9913eec87d,restrict.consulting,available,27.99,54.99,low,low,8,namesilo,,,19/09/2026 17:10
 34b6a5ca-6ccf-4402-abe5-1aa615b0e92c,uraemic.consulting,available,8.48,67.98,low,low,7,namecheap,,,08/08/2026 02:48
 eb7f7464-5bc9-477b-9aa7-be5edb02ebde,aromatic.consulting,available,26.99,,high,low,8,name.com,,,
 9cf675c4-f9ad-452a-9ab6-2237c4ac79ec,lettuce.consulting,available,26.99,,high,low,7,name.com,,,
-46d40fb7-8e8d-4bea-b7af-dfaa4e5e718d,invoice.consulting,premium,140,280,medium,low,8,namecheap,,,
+46d40fb7-8e8d-4bea-b7af-dfaa4e5e718d,invoice.consulting,premium,242,242,medium,low,8,namesilo,,,20/09/2026 02:32
 0096d194-febc-4cf4-8b3f-1c57e065a647,abc.consulting,premium,520,520,high,medium,3,namecheap,,,
 9d3e33ba-d0f8-4a15-9d7b-8e0b215ad6c6,flooring.consulting,available,,,high,low,8,,,,
 b0252b27-8349-4d31-83b0-151c1daf9861,lego.consulting,available,,,high,low,4,,,,
@@ -290,7 +287,7 @@ a2950646-4064-4770-986c-f29df299ea53,tempting.consulting,available,26.99,67.99,h
 382618e2-2232-4a7b-b059-8a11b4552c9a,pissed.consulting,available,8.48,67.98,low,low,6,namecheap,,,
 e6ad7fd5-4c51-4d51-8c7e-69c8273d62ef,nevada.consulting,premium,700,1400,medium,low,6,namecheap,,,
 ce2d28d9-e98f-4c48-8c9e-ddf2924a21d3,golfclub.consulting,available,26.99,,high,low,9,name.com,,,
-c393d7ac-f4ae-4b96-8e15-2898679ebacf,ice.consulting,premium,64.35,128.7,medium,medium,3,namecheap,,,14/09/2026 04:24
+c393d7ac-f4ae-4b96-8e15-2898679ebacf,ice.consulting,premium,118.8,118.8,low,low,3,namesilo,,,19/09/2026 17:13
 dc3742b5-1915-4400-9098-d20fc632122a,roughly.consulting,available,26.99,67.99,medium,low,7,name.com,,,
 20b9451b-a5cc-4e80-9025-34da4737740e,ego.consulting,premium,69.3,138.6,medium,low,3,namecheap,,,
 bdb9afd4-c6a4-4173-8e3c-58ed5a1e96a5,aspirin.consulting,available,,,high,low,7,,,,
@@ -298,7 +295,7 @@ cf54b07d-282e-4a91-bf3f-0ff69cdc61ab,alterative.consulting,available,8.48,67.98,
 b48c0bfe-da90-4985-a1e0-2000aae788ef,enduring.consulting,available,8.48,67.98,low,low,8,namecheap,,,
 97517f33-96ec-4213-a692-89d2cc36fb8c,backtothewall.consulting,available,26.99,,medium,low,16,name.com,,,
 5a299e9b-40aa-4ddc-88f2-f04fe177caec,setloose.consulting,available,26.99,,low,low,9,name.com,,,
-c24f24b7-ed4d-4d1a-be93-4e8c504db1a7,Blades.consulting,available,26.99,,medium,low,6,name.com,,,
+c24f24b7-ed4d-4d1a-be93-4e8c504db1a7,blades.consulting,available,26.99,,medium,low,6,name.com,,,
 f8d5ceee-e8d8-4b8a-88b6-3f90e5d341e5,nun.consulting,premium,69.3,138.6,medium,low,3,namecheap,,,
 5b2712fe-39ea-427c-b603-07a586dc6673,attached.consulting,available,8.48,67.98,low,low,8,namecheap,,,
 5dc0b3b8-ed57-4716-be54-9865b41efa47,cattax.consulting,available,26.99,,medium,low,7,name.com,,,
@@ -348,7 +345,7 @@ bba70f8d-05cd-4f54-bbc5-70512c4a2640,autumn.consulting,available,26.99,,medium,l
 4cec87b8-4fea-43c3-914f-eac76e92f173,havelittletimefor.consulting,available,26.99,,medium,low,20,name.com,,,
 d6dc9f12-feff-4110-a028-7e4750d07a55,ghostlike.consulting,available,8.48,67.98,low,low,9,namecheap,,,06/08/2026 05:23
 40505d6f-0354-4af9-9907-33e9b3d3998e,inane.consulting,available,8.48,67.98,low,low,5,namecheap,,,07/08/2026 02:43
-e4568f94-3460-4a23-bace-bff9083cd5c4,StFrancis.consulting,available,26.99,,medium,low,11,name.com,,,
+e4568f94-3460-4a23-bace-bff9083cd5c4,stfrancis.consulting,available,26.99,,medium,low,11,name.com,,,
 72e7ea36-737b-42c6-9c26-754669a20ab9,receipt.consulting,available,26.99,,high,low,7,name.com,,,
 828771bf-84ce-457a-b7bf-9e4bc3ffd1cf,posterior.consulting,available,8.48,67.98,low,low,9,namecheap,,,09/08/2026 11:12
 4dcf2356-c09f-49c6-a7dc-99b56a75555f,placating.consulting,available,8.48,67.98,low,low,9,namecheap,,,06/08/2026 06:02
@@ -386,7 +383,7 @@ e432a9ed-6909-411e-ac9c-b4f49cfe2a04,headup.consulting,available,26.99,,high,low
 f1486068-fb8c-4c95-9b60-54fbc19d10ef,notify.consulting,available,26.99,,high,low,6,name.com,,,
 0f07701a-6528-46ef-9c38-51a44abfc4fd,director.consulting,available,26.99,,high,low,8,name.com,,,
 651faf3c-6502-47a9-abab-4b768d42ed4c,fanclub.consulting,available,26.99,,high,low,8,name.com,,,
-9f5e324b-1438-426e-bd47-5fc92dac3582,NewOrleans.consulting,premium,69.3,138.6,medium,low,11,namecheap,,,
+9f5e324b-1438-426e-bd47-5fc92dac3582,neworleans.consulting,premium,69.3,138.6,medium,low,11,namecheap,,,
 da7680c0-f856-40ee-8f0a-77872640b786,adored.consulting,available,26.99,67.99,high,low,6,name.com,,,
 d66857d6-99e8-481b-a334-46fdc4ce99d3,sale.consulting,premium,280,560,high,low,4,namecheap,,,
 421e5305-bc7b-4e96-9867-2f31e7f91eb8,adjuratory.consulting,available,8.48,67.98,low,low,10,namecheap,,,
@@ -402,10 +399,10 @@ fbe0f4db-d534-4d26-9c6c-9449fa895b09,shooting.consulting,available,26.99,,medium
 60f40457-00e5-4833-95c1-955521e8f380,medals.consulting,available,26.99,,medium,low,6,name.com,,,
 7e8b209b-fad1-45e7-b7df-e68aa9402895,panoplied.consulting,available,8.48,67.98,low,low,9,namecheap,,,06/08/2026 21:42
 0182321d-b59a-4afa-b574-c68b658e34a3,dignitary.consulting,available,26.99,,high,low,9,name.com,,,
-6a418754-a3c7-4e3a-a5a2-80d7ad430b6c,Cadillac.consulting,available,26.99,,high,low,8,name.com,,,
+6a418754-a3c7-4e3a-a5a2-80d7ad430b6c,cadillac.consulting,available,26.99,,high,low,8,name.com,,,
 36effc0e-61a4-4636-b696-61a319e5cae5,dorightby.consulting,available,26.99,,high,low,11,name.com,,,
 4bfce4d8-7a13-49b1-b346-7cd7080f13ca,finally.consulting,available,26.99,,high,low,7,name.com,,,
-a460fb9e-db5e-4bcf-9445-6da60c36dba5,RomanCatholic.consulting,available,26.99,,high,low,14,name.com,,,
+a460fb9e-db5e-4bcf-9445-6da60c36dba5,romancatholic.consulting,available,26.99,,high,low,14,name.com,,,
 6280a348-d3f9-4d4e-a6de-56c0a16eceb0,aplanatic.consulting,available,8.48,67.98,low,low,9,namecheap,,,06/08/2026 00:29
 dcca49dc-5eb3-497e-8136-3dd1b17ea70f,azygos.consulting,available,8.48,67.98,low,low,6,namecheap,,,08/08/2026 03:32
 80264051-1dcf-44ea-a5be-21c726cc5763,gettakenin.consulting,available,26.99,,medium,low,12,name.com,,,
@@ -467,7 +464,7 @@ c819d74c-1c2a-4f1a-8a3d-aaf80bedfaf7,stray.consulting,available,26.99,,high,low,
 c6c3168c-7b29-4565-8dbe-9bb2e3d9cdd9,bonus.consulting,available,26.99,,high,low,5,name.com,,,
 ec89e241-7a75-4cd7-90ed-a57234e09109,surrender.consulting,available,26.99,,high,low,9,name.com,,,
 0ee97c2f-cf50-48f6-8c52-c6697a8bb458,biteme.consulting,available,26.99,,medium,low,7,name.com,,,
-74fbf86d-147a-4bb3-9553-21784ef0371d,FedEx.consulting,available,26.99,,high,low,5,name.com,,,
+74fbf86d-147a-4bb3-9553-21784ef0371d,fedex.consulting,available,26.99,,high,low,5,name.com,,,
 b863b304-eb5a-483a-b0e3-7230fd87804f,practicing.consulting,available,26.99,,high,low,10,name.com,,,
 ccc5b9fc-2891-46ee-9181-bddc31062892,athlete.consulting,premium,140,280,high,low,7,namecheap,,,
 21eb46c1-ac6e-4630-99ba-a1f70329442b,funnylooking.consulting,available,26.99,,medium,low,13,name.com,,,
@@ -501,18 +498,17 @@ d6a7f8b1-0884-4ea1-b751-69d10a1828c6,conference.consulting,available,26.99,,high
 eab5ae66-a213-4bf3-8321-93b00da4cfb3,garbed.consulting,available,8.48,67.98,low,low,6,namecheap,,,06/08/2026 04:52
 db1fb366-bdf2-436a-b696-ecebd8117b54,auxinic.consulting,available,8.48,67.98,low,low,7,namecheap,,,07/08/2026 21:34
 2134107e-99d3-4171-a396-8807c157e9a8,onceforall.consulting,available,26.99,,low,low,12,name.com,,,
-156b0c10-bb1a-43ee-beb7-8d0704a836d7,virtual.consulting,premium,520,1040,medium,low,7,namecheap,,,14/09/2026 02:23
+156b0c10-bb1a-43ee-beb7-8d0704a836d7,virtual.consulting,premium,854,854,medium,low,7,namesilo,,,19/09/2026 09:02
 bdeb771c-9619-40c5-97d9-0218ca70fb69,resolute.consulting,available,26.99,,high,low,8,name.com,,,
 0573671c-daad-46eb-9aed-852ea63f9851,than.consulting,available,26.99,,high,low,4,name.com,,,
 19f786c3-5216-4838-aa9d-316e8176c08c,actable.consulting,available,8.48,67.98,low,low,7,namecheap,,,
 1faa795c-81a5-4849-9760-52bbb2277511,montreal.consulting,premium,700,1400,medium,low,8,namecheap,,,
-f4af2dad-e614-43e5-a253-1d1c5c8c82fd,JesusChrist.consulting,available,26.99,,high,low,12,name.com,,,
+f4af2dad-e614-43e5-a253-1d1c5c8c82fd,jesuschrist.consulting,available,26.99,,high,low,12,name.com,,,
 9020d6d3-be1c-4418-a63c-2be7e98c1c71,livid.consulting,available,8.48,67.98,low,low,5,namecheap,,,07/08/2026 02:24
 332c9c8c-bbb7-403d-b6ee-e36ebd084613,coffeemaker.consulting,available,26.99,,high,low,12,name.com,,,
 28207e86-6cc2-435f-a7c9-f2223020538e,google.consulting,available,,,high,medium,6,,,,
 33b4dd0d-89d0-4460-ae82-d769fae29aac,port.consulting,available,26.99,,medium,low,4,name.com,,,
 962eb32e-ec6f-4e02-b680-d570d2889fd3,particles.consulting,available,26.99,,low,low,9,name.com,,,
-7fbc4233-5fe8-426a-8ac6-d842d60d0003,deal.consulting,available,,,medium,low,4,,,,
 e03ddb15-cbb7-4dcb-9b71-93a46a2e2d96,adverbial.consulting,available,8.48,67.98,low,low,9,namecheap,,,
 66df67fa-d606-4d87-9440-cf2ed2675f5f,thisafternoon.consulting,available,26.99,,low,low,14,name.com,,,
 ffb40135-f98d-46eb-be55-8d0e90366362,babybottle.consulting,available,26.99,,high,low,11,name.com,,,
@@ -524,7 +520,7 @@ b1cc2ad8-b42b-4d50-a5d2-408ea0d01c6d,sit.consulting,premium,46.2,92.4,high,low,3
 01504c9f-2312-4ccf-becd-cbc8ad96e596,virulent.consulting,available,8.48,67.98,low,low,8,namecheap,,,
 8553c118-f777-47c0-b34c-8f3aa4a86bc4,elsewhere.consulting,available,26.99,,high,low,9,name.com,,,
 c4027700-c377-41ff-829f-8a0d98576daa,paternal.consulting,available,8.48,67.98,low,low,8,namecheap,,,
-67b6aa39-121f-4021-82bb-81deeeacdc70,Idonotknowit.consulting,available,26.99,,medium,low,16,name.com,,,
+67b6aa39-121f-4021-82bb-81deeeacdc70,idonotknowit.consulting,available,26.99,,medium,low,16,name.com,,,
 a3e790b0-314c-40c8-9713-7409d49b09fc,manytime.consulting,available,26.99,,medium,low,9,name.com,,,
 db29a15d-4bcb-445a-8a4c-b9a5bb567aad,pen.consulting,premium,69.3,138.6,medium,low,3,namecheap,,,
 e5f5efe2-944a-4c17-82b8-9db2eef2ead3,uproar.consulting,available,26.99,,high,low,6,name.com,,,
@@ -579,7 +575,7 @@ f043cfbf-ad4c-4d70-8910-254ba84209d4,acidulent.consulting,available,8.48,67.98,l
 2f17669d-8a11-4b27-94c0-c258946786fc,artist.consulting,premium,280,560,high,low,6,namecheap,,,
 c309b39d-4bbf-464c-beea-290f40d2a962,accept.consulting,available,26.99,,high,low,6,name.com,,,
 4dacf769-9733-4f4d-90d2-64791c95cb51,decorated.consulting,available,26.99,67.99,medium,low,9,name.com,,,
-67e1d525-628a-42fa-b0ef-5d520db644ba,buffet.consulting,available,8.48,67.98,medium,low,6,namecheap,,,14/09/2026 03:26
+67e1d525-628a-42fa-b0ef-5d520db644ba,buffet.consulting,available,27.99,54.99,medium,low,6,namesilo,,,19/09/2026 17:05
 5133ff8e-0849-40d0-be3c-3562f41578ed,theft.consulting,available,8.48,67.98,low,low,5,namecheap,,,08/09/2026 07:55
 65f64a89-8f85-4946-b42b-e3e3c2259b33,returnticket.consulting,available,26.99,,high,low,13,name.com,,,
 187cb99c-a733-415e-bcfb-ee7b4a1a5696,paperplate.consulting,available,26.99,,high,low,11,name.com,,,
@@ -594,14 +590,14 @@ ccdfacf4-edc7-41ec-a9e5-fe9db4acef39,voicecall.consulting,available,26.99,,high,
 a3b31175-f008-4fe1-b7aa-25323d604e9b,choir.consulting,available,26.99,,high,low,5,name.com,,,
 3eb46ff8-2be1-4b92-bb89-f885f6e6389b,toobad.consulting,available,26.99,,low,low,7,name.com,,,
 85b725b2-a38d-4471-9fd3-3bdc4bc7eed1,injury.consulting,available,26.99,,high,low,6,name.com,,,
-60261760-dffd-4b64-a07a-fb372099dcbb,NYT.consulting,premium,46.2,92.4,high,low,3,namecheap,,,
+60261760-dffd-4b64-a07a-fb372099dcbb,nyt.consulting,premium,46.2,92.4,high,low,3,namecheap,,,
 42056e15-f374-4e72-8d87-5e107fb16b1f,enterontheboards.consulting,available,26.99,,medium,low,19,name.com,,,
 c3a2ddb5-8682-4bcd-8b21-46bd0d07788c,otherwise.consulting,available,26.99,,high,low,9,name.com,,,
 7fab5006-1081-4502-8af5-62a2a5abdca3,tell.consulting,available,26.99,,high,low,4,name.com,,,
 4932bc5a-4653-42ac-ab92-1ced3fb21e79,sip.consulting,premium,69.3,138.6,medium,low,3,namecheap,,,
 c9a2dbbe-f449-4698-be59-81b90906f346,amaurotic.consulting,available,8.48,67.98,low,low,9,namecheap,,,
 716b6850-f789-4013-a3b7-a662c902f0b9,russian.consulting,resell,,,high,low,7,"NameSilo, LLC",04/05/2025 10:08,04/05/2027 10:08,
-bb68b514-67db-4c24-9a55-d24dc6022aa6,environment.consulting,premium,130,260,medium,low,11,namecheap,,,14/09/2026 05:49
+bb68b514-67db-4c24-9a55-d24dc6022aa6,environment.consulting,premium,242,242,medium,low,11,namesilo,,,19/09/2026 04:45
 1f20958d-5a33-427a-9c11-f3807f7a895c,avellane.consulting,available,8.48,67.98,low,low,8,namecheap,,,07/08/2026 22:29
 83fe1d31-85ec-4bea-ae39-8d7e42355166,saturday.consulting,available,26.99,,high,low,8,name.com,,,
 903d7d9d-67df-426b-9c52-6cb4a35c9f61,committee.consulting,available,26.99,,medium,low,9,name.com,,,
@@ -612,16 +608,16 @@ c3978c51-4229-4109-b327-4f0648e09a95,alkylic.consulting,available,8.48,67.98,low
 5e05baba-7fe4-450f-aef8-f337b8551a76,waytoo.consulting,available,26.99,,low,low,7,name.com,,,
 0ede05ef-a261-4f8f-ba8d-de72f903133f,decay.consulting,available,26.99,,high,low,5,name.com,,,
 e66f061f-13a3-4bd1-ba25-c04375387e8c,shakehands.consulting,available,26.99,,medium,low,11,name.com,,,
-e3fe0f72-ce7e-4db2-8060-90135ae2beb2,SurfCity.consulting,available,26.99,,medium,low,9,name.com,,,
+e3fe0f72-ce7e-4db2-8060-90135ae2beb2,surfcity.consulting,available,26.99,,medium,low,9,name.com,,,
 309ab023-e5b9-411d-9934-8e49b53fa911,formerly.consulting,available,26.99,,medium,low,8,name.com,,,
 f753e97e-40e8-4b45-bb28-9dbe97b68398,stamp.consulting,available,26.99,,medium,low,5,name.com,,,
 79224e78-92cd-48e4-8aea-79078b82cc7e,watchover.consulting,available,26.99,,high,low,10,name.com,,,
 6ded4bec-9267-4659-accd-32084273e0e5,spellcheck.consulting,available,26.99,,high,low,11,name.com,,,
 f12452c1-8e93-4e11-93a6-d61ad781aaa8,whisking.consulting,available,26.99,,medium,low,8,name.com,,,
 00c08913-9c9b-4738-832a-afeebf8d4d7a,doubling.consulting,available,26.99,,medium,low,8,name.com,,,
-ed8dfafb-711e-456d-ab82-65c6bc72ce33,Snapchat.consulting,available,26.99,,high,low,8,name.com,,,
+ed8dfafb-711e-456d-ab82-65c6bc72ce33,snapchat.consulting,available,26.99,,high,low,8,name.com,,,
 11c326b4-4d12-412e-9db9-0ab8a46e5eae,poor.consulting,available,26.99,,medium,low,4,name.com,,,
-7cab136b-427a-4633-bc51-eec277205e1e,backup.consulting,available,26.99,,high,low,6,name.com,,,
+7cab136b-427a-4633-bc51-eec277205e1e,backup.consulting,available,27.99,54.99,medium,low,6,namesilo,,,20/09/2026 03:14
 8b947f20-9c1c-406e-af1e-fd5945f1298b,endowment.consulting,available,26.99,,high,low,9,name.com,,,
 ab128d32-6a41-4e8e-bd11-bad9b0ee5d1b,contempt.consulting,available,26.99,,medium,low,8,name.com,,,
 f8b8231f-70a6-4900-9a43-29e72c8f00e3,aggregated.consulting,available,8.48,67.98,low,low,10,namecheap,,,
@@ -662,7 +658,7 @@ f57776b2-d64b-4074-9c90-44a101a4a217,gotoilet.consulting,available,26.99,,medium
 435a81df-3a39-4643-9e86-e495743e6cad,halloween.consulting,available,26.99,,high,low,9,name.com,,,
 92cdca39-2fb2-4e15-9d8e-114b99f2f08f,six.consulting,premium,250,250,medium,low,3,name.com,,,
 9cd57539-d1f5-488d-884b-ffb04e1b0c81,pandabear.consulting,available,26.99,,high,low,10,name.com,,,
-6a6302ae-5e32-4f24-8ea7-bcf360d2638d,idiot.consulting,available,8.48,67.98,low,low,5,namecheap,,,15/09/2026 00:52
+6a6302ae-5e32-4f24-8ea7-bcf360d2638d,idiot.consulting,available,27.99,54.99,low,low,5,namesilo,,,19/09/2026 09:51
 dffe9464-abae-4f0f-aaa3-83effda4dbca,sitloose.consulting,available,26.99,,low,low,9,name.com,,,
 956777c2-34f7-49a5-9979-cef1d62ca296,xxxv.consulting,available,8.48,67.98,low,low,4,namecheap,,,
 bb4303df-a41e-4faf-9d61-09383eb3f1b3,special.consulting,premium,46.2,92.4,high,low,7,namecheap,,,
@@ -699,7 +695,7 @@ e44ed4f4-e692-4d4b-92de-a548787912c7,hour.consulting,available,26.99,,high,low,4
 e6c04374-c4db-4a71-842a-eae6c14c35ac,baking.consulting,available,26.99,,high,low,6,name.com,,,
 ed9370b3-b2fb-4582-85c4-5c04df33bd5e,acarpous.consulting,available,8.48,67.98,low,low,8,namecheap,,,
 50bf9529-90c2-4072-a3de-90549672582a,backwardslash.consulting,available,26.99,,medium,low,14,name.com,,,
-331098d7-9aa2-49ac-ab99-f24bb2e1e22d,Cindy.consulting,available,26.99,,high,low,5,name.com,,,
+331098d7-9aa2-49ac-ab99-f24bb2e1e22d,cindy.consulting,available,26.99,,high,low,5,name.com,,,
 0eb9fc52-730f-473e-a83e-e3fd6a006fd0,now.consulting,resell,,,medium,medium,3,Squarespace Domains II LLC,06/07/2021 06:42,06/07/2027 06:42,
 8b5a168a-e078-424f-996a-c88c755ac3ca,agamic.consulting,available,8.48,67.98,low,low,6,namecheap,,,
 fe3038e9-e433-46e5-8c90-90538aab0ec0,plate.consulting,available,26.99,,medium,low,5,name.com,,,
@@ -853,18 +849,16 @@ c63fda90-6156-4980-8aca-bfe1f3126a99,relation.consulting,available,26.99,,high,l
 aee0344e-9a8b-4fcb-a50e-402dba939b1f,diminished.consulting,available,8.48,67.98,low,low,10,namecheap,,,07/08/2026 15:00
 34e36a9e-7224-452d-ad3d-15ccf0e65ac2,existent.consulting,available,8.48,67.98,low,low,8,namecheap,,,
 6ebbc1c3-85a0-4bd8-86b0-22b922e4b120,baseless.consulting,available,8.48,67.98,low,low,8,namecheap,,,08/08/2026 21:44
-0ed37ff3-09f2-44e9-b85c-bd7408dfe0a6,TempleCity.consulting,available,26.99,,low,low,11,name.com,,,
+0ed37ff3-09f2-44e9-b85c-bd7408dfe0a6,templecity.consulting,available,26.99,,low,low,11,name.com,,,
 e5ec8462-df22-4cb3-8aca-2c4bcdaedd79,hitup.consulting,available,26.99,,high,low,6,name.com,,,
 c9beef96-81b8-41a9-930d-91e1c24ff922,carrie.consulting,available,26.99,,high,low,6,name.com,,,
 ffec0ca9-8698-41a7-8174-abdfa5b32d8c,alone.consulting,available,26.99,67.99,high,low,5,name.com,,,
-344b83a9-2eca-4d89-8dbf-cef524cfd56b,palm.consulting,resell,,,high,low,4,Dynadot Inc,25/07/2025 17:00,25/07/2026 17:00,
 0193b36b-df53-44f1-a9c9-8dd6895def32,deadofnight.consulting,available,26.99,,medium,low,13,name.com,,,
 a93ded41-1d63-4ade-a28d-d03fc38e9abe,barometric.consulting,available,8.48,67.98,low,low,10,namecheap,,,08/08/2026 20:06
 4809fc9a-2525-4675-ba0f-8b1901babd76,setanexample.consulting,available,26.99,,medium,low,14,name.com,,,
 ef76bba3-2329-47b2-ba47-4f49802c24e9,ugh.consulting,premium,69.3,138.6,medium,low,3,namecheap,,,
 7d4d3ea0-7fbd-46c2-9f0d-94c5fc06b65b,tetrad.consulting,available,8.48,67.98,low,low,6,namecheap,,,
 4bd2df71-4f3c-4748-82f4-1b963214203e,bornyesterday.consulting,available,26.99,,medium,low,14,name.com,,,
-e10ea04f-248e-4f58-bb69-522728b24ea1,wall.consulting,resell,,,high,low,4,Dynadot Inc,16/07/2025 17:00,16/07/2026 17:00,
 d19a0ccf-b745-49de-9e09-452519c710d7,kilogram.consulting,available,26.99,,high,low,8,name.com,,,
 f6fd43dc-3bbc-4e9d-ac94-d05f4c67719e,tentbed.consulting,available,26.99,,high,low,8,name.com,,,
 fd71dcb6-cb13-4f03-bd42-c2c20035fd42,medication.consulting,available,26.99,,high,low,10,name.com,,,
@@ -882,7 +876,7 @@ e0582214-1efd-4f62-871b-d5847de65e1c,thirdclass.consulting,available,26.99,,low,
 fee77bc5-5467-4f65-9d93-3a868c8aa1d0,arboreal.consulting,available,8.48,67.98,low,low,8,namecheap,,,06/08/2026 13:18
 4111d689-282e-4868-b6fc-101f254ff3b1,affidavit.consulting,available,26.99,,medium,low,9,name.com,,,
 6d0eb88e-b339-465f-b592-33c3a94d3f90,revered.consulting,available,26.99,,high,low,7,name.com,,,
-e744598d-7112-453d-8106-fa8449677597,aided.consulting,available,26.99,67.99,high,low,5,name.com,,,
+e744598d-7112-453d-8106-fa8449677597,aided.consulting,available,27.99,54.99,low,low,5,namesilo,,,19/09/2026 12:43
 7643742e-bdbc-4974-b842-fc96ed1bc37b,soppy.consulting,available,8.48,67.98,low,low,5,namecheap,,,09/08/2026 01:14
 ca4398a2-3048-4053-8928-7e9611c284e3,cracked.consulting,available,26.99,67.99,high,low,7,name.com,,,
 063d2697-1b89-4746-a62a-7827cf3802c6,eremitic.consulting,available,8.48,67.98,low,low,8,namecheap,,,
@@ -911,7 +905,6 @@ a6cc0704-f9ce-4db8-8bbe-908c0ae9b118,atrophied.consulting,available,8.48,67.98,l
 7dc9d58a-f8d4-4a5e-bce6-57352106e884,deflation.consulting,available,26.99,,medium,low,9,name.com,,,
 b01ed880-2bd3-460c-b126-cc0cc6b21e00,dedicated.consulting,available,26.99,67.99,high,low,9,name.com,,,
 6b367bb8-1eee-4e2d-b286-5a107840fb2d,altruist.consulting,available,26.99,,high,low,8,name.com,,,
-27f2556d-3b39-4822-8dc5-f2837eb57439,think.consulting,available,,,high,low,5,,,,
 f041ae2c-00f0-48db-9664-a9b5241ef89c,inundated.consulting,available,8.48,67.98,low,low,9,namecheap,,,08/08/2026 00:29
 236ddaad-0ee5-4ae4-b818-1574f76f401d,basis.consulting,available,26.99,,high,low,5,name.com,,,
 dc72b55a-2f46-4829-955b-79ed7f5f3018,abandoned.consulting,available,26.99,67.99,medium,low,9,name.com,,,
@@ -928,16 +921,15 @@ ac61ab3d-6922-445d-ac6b-25989f23b844,enviable.consulting,available,26.99,,high,l
 bdc27a4c-40f0-4b2b-a7a0-9078d5009515,see.consulting,premium,46.2,92.4,high,low,3,namecheap,,,
 aa41e8e6-cd4a-4af1-946d-e4a356042650,somewhat.consulting,available,26.99,,high,low,8,name.com,,,
 ba03d961-1705-4098-8eee-4b4e9c0d1588,arty.consulting,available,8.48,67.98,low,low,4,namecheap,,,06/08/2026 23:51
-dc285d8f-dafa-460f-bb86-1d2f715f2965,news.consulting,premium,69.3,138.6,high,medium,4,namecheap,,,
+dc285d8f-dafa-460f-bb86-1d2f715f2965,news.consulting,premium,64.35,128.7,medium,low,4,namecheap,,,20/09/2026 02:58
 03173312-5583-470f-8cd6-27084d444953,nature.consulting,resell,,,medium,low,6,"Spaceship, Inc.",03/03/2023 15:15,03/03/2027 15:15,08/09/2026 02:43
 f7676b7c-f6a9-449e-8d26-61d2e1e27dc9,aujus.consulting,available,26.99,,medium,low,6,name.com,,,
-dfdfcc2f-c0b9-403b-bcb8-6b19e8c4e565,garden.consulting,resell,,,high,low,6,"GoDaddy.com, LLC",30/07/2021 01:38,30/07/2026 01:38,
 6595da29-b610-4b19-aad6-ebb8cf875e74,adoptive.consulting,available,8.48,67.98,low,low,8,namecheap,,,
 a879d421-949e-4ba0-a8d8-dbf79f2f9876,distribute.consulting,available,26.99,,medium,low,10,name.com,,,
-00e4143a-e0da-4c05-96d1-f38d9df4c6f3,island.consulting,resell,,,high,low,6,"Wild West Domains, LLC",23/07/2014 17:00,23/07/2026 17:00,
+00e4143a-e0da-4c05-96d1-f38d9df4c6f3,island.consulting,resell,,,high,low,6,"Wild West Domains, LLC",23/07/2014 17:00,23/07/2027 17:00,19/09/2026 20:13
 baab9b8d-cf49-4c1f-a80c-18e74e96f7c1,pressed.consulting,available,26.99,,medium,low,7,name.com,,,
 f06100af-632f-489f-9810-9b6ac098e67e,wipeup.consulting,available,26.99,,high,low,7,name.com,,,
-39379bcc-84a0-4b24-8fbe-5513ee032950,Fanta.consulting,available,26.99,,high,low,5,name.com,,,
+39379bcc-84a0-4b24-8fbe-5513ee032950,fanta.consulting,available,26.99,,high,low,5,name.com,,,
 e6729729-bcd9-4f7b-8ad8-817d021f51c8,slighting.consulting,available,8.48,67.98,low,low,9,namecheap,,,09/08/2026 13:15
 64abe6cb-6d1b-4fd0-8cef-28f721ed81d0,abbatial.consulting,available,8.48,67.98,low,low,8,namecheap,,,
 6d6b9313-e3fc-4f3d-ab4a-3d921f641d50,dwelling.consulting,available,26.99,,medium,low,8,name.com,,,
@@ -948,7 +940,6 @@ fa6c0f25-0999-4fa9-8962-35c887e09271,tossacoin.consulting,available,26.99,,low,l
 7d71e46c-f570-406e-88d2-fbdd17e2dc59,earmark.consulting,available,8.48,67.98,low,low,7,namecheap,,,06/08/2026 09:08
 60250887-4b04-4c75-b589-ff87ab2812c7,foul.consulting,available,8.48,67.98,low,low,4,namecheap,,,
 a30c35b9-8ecc-479a-a8c6-125048c54615,defense.consulting,premium,520,520,high,low,7,namecheap,,,
-df3ab243-d958-4e4a-ab48-dc116fe25417,fair.consulting,resell,,,high,low,4,"NameCheap, Inc.",24/07/2014 13:30,24/07/2026 13:30,
 25d3e5fe-f777-4112-9299-c2709e677609,called.consulting,available,26.99,,medium,low,6,name.com,,,
 b9f24c40-423b-4934-b3fd-d967e249c51d,fanletter.consulting,available,26.99,,medium,low,10,name.com,,,
 8318d4b8-74ab-4119-b0dc-a71e94a1c644,almost.consulting,available,26.99,,high,low,6,name.com,,,
@@ -990,7 +981,7 @@ ddc13d83-0a25-4c61-8262-d2319c9a1bb4,removal.consulting,available,26.99,,medium,
 7b763bfc-c66c-4894-8206-eaf115233b26,requirement.consulting,available,26.99,,high,low,11,name.com,,,
 1ffd22dc-a717-4e50-81a1-e43f404f3e70,did.consulting,premium,46.2,92.4,high,low,3,namecheap,,,
 73c30f3e-0f1d-4881-96df-64eadb851b11,mosquito.consulting,available,26.99,,medium,low,8,name.com,,,
-e909e1cb-e53f-47d6-ab07-0d78d9395ddb,stove.consulting,available,8.48,67.98,medium,low,5,namecheap,,,15/09/2026 04:20
+e909e1cb-e53f-47d6-ab07-0d78d9395ddb,stove.consulting,available,8.48,67.98,low,low,5,namecheap,,,19/09/2026 18:48
 3a493719-d37b-4e04-89eb-6c49550fb539,gelpen.consulting,available,26.99,,high,low,7,name.com,,,
 afd1b4a2-63a0-470c-9f9d-bc9dc852ba7f,dominance.consulting,available,26.99,,medium,low,9,name.com,,,
 4b7a302b-b8f4-4a84-bca4-6a0baf0fdba0,tomato.consulting,available,26.99,,high,low,6,name.com,,,
@@ -999,3 +990,12 @@ b1389584-5957-4574-8ef7-e106696881e7,unexpected.consulting,available,26.99,,high
 e1efe282-aadc-4775-8d73-1ebcd890aa09,bethere.consulting,available,26.99,,medium,low,8,name.com,,,
 822dd2f2-cf2d-43a2-a33d-fc8391a549a2,necessity.consulting,available,26.99,,high,low,9,name.com,,,
 513c2d46-29dc-476d-a3e1-611a049206a5,contrary.consulting,available,26.99,67.99,high,low,8,name.com,,,
+6833bbba-434e-428d-b102-ed781ca488da,few.consulting,available,26.99,,high,low,3,name.com,,,
+5c9a3801-3cda-478e-89fa-488d7783af0d,youall.consulting,available,26.99,,medium,low,7,name.com,,,
+a4d678e2-1a85-4a7b-a35d-cc34acf65a2c,replace.consulting,available,26.99,,high,low,7,name.com,,,
+c930a2c6-a863-4f5e-ad7c-923eb7f2f354,generalpopulation.consulting,available,26.99,,medium,low,18,name.com,,,
+67978515-f7a0-4148-a079-b4d21056c4c7,stranded.consulting,available,26.99,,medium,low,8,name.com,,,
+30a0c95c-f2b0-4009-870f-589116b096cf,pressrelease.consulting,available,26.99,,medium,low,13,name.com,,,
+47e4e41f-3113-469f-9e33-5a3c9a59defd,thrown.consulting,available,26.99,,medium,low,6,name.com,,,
+20aa6ecf-d5fc-4034-99c7-1cd1bbbc861e,everybodyelse.consulting,available,26.99,,medium,low,14,name.com,,,
+8ddb5198-a109-4a8d-af2f-d9d8ba59081a,mothafucker.consulting,available,26.99,,medium,low,11,name.com,,,
