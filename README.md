@@ -1,10 +1,10 @@
-# Available .CONSULTING One-Word Domains (20,846)
+# Available .CONSULTING One-Word Domains (21,244)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C846%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C244%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .consulting one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,846 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,244 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,846 domains · **Median ask:** $26.69 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 21,244 domains · **Median ask:** $26.59 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/consulting`
@@ -71,19 +71,19 @@ print(df.head())
 | forum.consulting   | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 5                                          |
 | bed.consulting     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                                 |
 | phd.consulting     | available | $27.99    | $54.99        | high           | low    | 3      | namesilo                                                  |
-| canvas.consulting  | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 6                                          |
+| yacht.consulting   | resell    | —         | —             | high           | low    | 5      | —                                                         |
 | dun.consulting     | premium   | $64.35    | $128.70       | medium         | low    | 3      | namecheap                                                 |
 | aged.consulting    | available | $39.99    | $67.99        | high           | low    | 4      | name.com                                                  |
-| indigo.consulting  | resell    | —         | —             | high           | low    | 6      | Network Solutions, LLC                                    |
+| canvas.consulting  | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 6                                          |
 | fag.consulting     | premium   | $42.90    | $85.80        | medium         | low    | 3      | namecheap                                                 |
 | ague.consulting    | available | $8.48     | $67.98        | medium         | low    | 4      | namecheap                                                 |
-| fortune.consulting | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 31                                         |
+| indigo.consulting  | resell    | —         | —             | high           | low    | 6      | Network Solutions, LLC                                    |
 | gas.consulting     | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
 | akha.consulting    | available | $27.99    | $54.99        | medium         | low    | 4      | namesilo                                                  |
-| freedom.consulting | resell    | —         | —             | high           | medium | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| fortune.consulting | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 31                                         |
 | gip.consulting     | premium   | $42.90    | $85.80        | medium         | low    | 3      | namecheap                                                 |
 | amah.consulting    | available | $27.99    | $54.99        | medium         | low    | 4      | namesilo                                                  |
-| wharton.consulting | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
+| freedom.consulting | resell    | —         | —             | high           | medium | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,846 live domains                        |
+| 1,000-row public sample | 21,244 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
